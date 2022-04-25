@@ -1,0 +1,53 @@
+
+
+body{
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#A {
+    color: red;
+}
+
+#B {
+    color: blue;
+}
+
+#C {
+    color: green;
+}
+
+#D {
+    font-size: larger;
+}
+
+#E {
+    font-size: x-small;
+}
+
+#F {
+    text-align: center;
+}
+
+#G {
+    font-weight: bold;
+}
+
+#H {
+    font-family: cursive;
+}
+
+#I {
+    font-size: larger; color: orange; font-weight: bold;
+}
+
+.x {
+    color: green;
+}
+
+#J {
+    border: solid orange; border-width: medium; border-style:solid
+}
